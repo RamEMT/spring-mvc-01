@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * @Author: Ram
  * @Since: 2020.10.29 20:31
+ *
+ *  注解：@RequestHeader  @CookieValue
  */
 @Controller
 public class RequestHeaderController {
